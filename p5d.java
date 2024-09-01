@@ -34,7 +34,7 @@ public class p5d {
         }
 
         // Lower part of the diamond
-        for (i = 1; i <= n; i++) {
+        for (i = 2; i <= n; i++) {
             // Print leading stars
             for (j = 1; j <= i; j++) {
                 System.out.print("*");
